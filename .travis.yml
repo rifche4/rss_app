@@ -7,4 +7,4 @@ script:
   - npm run lint
 
 notification:
-  email: true
+  email: false 
