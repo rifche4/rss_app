@@ -1,0 +1,12 @@
+language: node_js
+
+node_js: 
+  -'16'
+
+script:
+ - npm test
+  
+
+notification: 
+ email: True
+ 
